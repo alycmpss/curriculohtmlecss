@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  #container {
+    border: 1px solid rgb(0, 0, 0);
+    padding: 99px;
+    max-width: 500px;
+    margin: 0 auto;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  .section {
+    margin-bottom: 20px;
+  }
+  
+  .section h2 {
+    margin: 0;
+    padding-bottom: 5px;
+    border-bottom: 1px solid rgb(0, 0, 0);
+  }
+  
+  .section-content {
+    margin-top: 10px;
+  }
+  
+  .section-content p {
+    margin: 5px 0;
+  }
+  
+  img {
+    max-width: 100px;
+    border-radius: 50%;
+    display: block;
+    margin:  auto;
+  }
+  

@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Currículo</title>
+  
+  </div>
+  <link rel="stylesheet" type="text/css" href="curriculoaly.css">
+</head>
+<body>
+  <div id="container">
+    <h1>Currículo</h1>
+    
+    <img src="https://lh3.googleusercontent.com/wHL7xwMziPjii3O5rJCQdr5w9cLVgKv7TrlX1ZFOVlsRzvdBQwnwk0xvYIpZXzABAu6YbarVTwGB6aMrO96vc8rUu6tq90D2eDWEZu7khpEF6r9OufpmaRjM1g3Wzdwj1_wU5sSaPFCi26Wd7sbP29gT9Q5Ri0pJS0An05aT4akU4Tm2fWkOzwwoxEQKjpS5cEAu_UzvQF7VqASRU1vAWx3cfkXd9TxhACvVjhmg0hdruC2ha42r6-hdJq1gn64xoMxb68Gl7f4mgfVLA1pbz_s73HWhWmK7YqeTWNGOmW4AKqlvEZsomZNIEUU-M127eFeeRmpuIwV6XgX4U-fjtjhFuSxIeUPYA7z6Xps82vUeO15CrV0Y-oXr16RSdb5rlBkxO72qut4VBsHZqMHNWNFtdmwX0XCE500yyoFtaMZPLMnO7lWS4F--gfZjetTiOYmzeIHUdBJluIEEIAywHoMiCljX2rGRxd8wj-C_2xJuPtmpGu21D3H5HALP3Xp4dly7W4r-Pt8WpYwBdl9-uK47PX5zej_9OKD7zAeX6ec2QoZgSx64P32jVVUaQs_3c3Gw_ZqDJKe5h8agYM72AG8Ja-TWfyFe2CgCTJUKQD_RYcwVGqNPGDLng3KF3Pt3Qkhq4LWMtauVmpSlUQAHhrJEZynthTLGLRWetLdPOVVzbbPBpmGZPNFUX33GHWRlLmuiqVXAgSSUTFPo3BhbOb-IQLLI2SYj5DpMYmWQ-GCIQ9O9BZTl9BpYf9uRYyh_-frIaCObQi4fm986UTq2Z_yMBmsKFlsZO2ls-MKhTJgQcm13vLFcrcxyN0PigNWpiKqPA9gTnMg6CKdRpjd87hWX2ClGE8yIeoRu5WmhyvKNo4DOVNMSave79v7Px9MtTjnyYOdH0upqt4O3GvlQJ1oDaOjvvAn0_Gz6kfMkhyr0T7ab=w143-h182-s-no?authuser=0=0"Foto">
+    <div class="section">
+        <BR>
+      <h2>Informações Pessoais</h2>
+      <div class="section-content">
+        <p>Nome: Anna Alycia Campos da Silva</p>
+        <p>Endereço: Avenída Eurípedes Gomes de Carvalho, 03</p>
+        <p>Telefone: (87)98818-1203</p>
+        <p>Email: anna-alycia@hotmail.com</p>
+      </div>
+    </div>
+    
+    <div class="section">
+      <h2>Formação</h2>
+      <div class="section-content">
+        <p>Ensino Médio Integrado - Técnico em Informática </p>
+        <p>Instituto Federal de Educação, Ciências e Tecnologia - Campus Salgueiro</p>
+        <p>Período: 2021 - 2023</p>
+      </div>
+    </div>
+    
+    <div class="section">
+      <h2>Formação Complementar</h2>
+      <div class="section-content">
+        <p>Oficina Maker: Introdução à programação em Arduino:</p>
+        <p>Instituto Federal de Educação, Ciências e Tecnologia - Campus Salgueiro</p></p>
+        <p>Período: 2021</p>
+
+        <br>
+
+        <p>Descobrindo a Impressão 3D:</p>
+        <p>Instituto Federal de Educação, Ciências e Tecnologia - Campus Salgueiro</p></p>
+        <p>Período: 2021</p>
+
+        <br>
+
+        <p>Mentalidade Empreendedora: </p>
+        <p>Instituto Federal de Educação, Ciências e Tecnologia - Campus Salgueiro</p></p>
+        <p>Período: 2021</p>
+
+
+
+      </div>
+    </div>
+    
+    
+</body>
+</html>
